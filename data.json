@@ -1,0 +1,16 @@
+{
+  "startTime": null,
+  "elapsed": 14095,
+  "laps": [
+    {
+      "id": 1,
+      "total": 6942,
+      "interval": 6942
+    },
+    {
+      "id": 2,
+      "total": 12205,
+      "interval": 5263
+    }
+  ]
+}
